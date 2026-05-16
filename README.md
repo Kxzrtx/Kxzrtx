@@ -11,7 +11,7 @@
 
 ### `~/whoami`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=15+y%2Fo+dev+from+Poland+%F0%9F%87%B5%F0%9F%87%B1;Linux+%26+open+source+enthusiast;Cybersecurity+learner;Always+building+something)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=;Linux+%26+open+source+enthusiast;Cybersecurity+learner;Always+building+something)
 
 </div>
 
