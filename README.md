@@ -21,10 +21,10 @@ name="Jakub"
 location="Podkarpacie, Poland 🇵🇱"
 os="Arch Linux"
 wm="KDE Plasma"
-editor="VS Code"
-learning=["C", "Cybersecurity", "Networking"]
+editor="VS Codium"
+learning=["Python", "Cybersecurity", "Linux"]
 interests=["Linux", "Privacy", "Open Source"]
-currently_doing="IBM SkillsBuild Cybersecurity Fundamentals"
+
 ```
 
 ---
@@ -35,7 +35,6 @@ currently_doing="IBM SkillsBuild Cybersecurity Fundamentals"
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
