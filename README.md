@@ -63,7 +63,7 @@ interests=["Linux", "Privacy", "Open Source"]
 
 ---
 
-### 🎮 [thrustmaster-tmx-linux](https://github.com/Kxzrtx/thrustmaster-tmx-linux)
+### 🎮 [thrustmaster-tmx-driver](https://github.com/Kxzrtx/Thrustmaster_TMX_Driver.git)
 > Installer script for the Thrustmaster TMX racing wheel on Linux. Supports multiple distros and languages. Used by real people worldwide.
 
 `Bash` `Multi-distro` `Hardware drivers`
